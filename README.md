@@ -1,10 +1,6 @@
 # World_Layoffs_project3
 This project explores global layoffs data, analyzing trends by industry, location, and time. SQL queries are used for data extraction, and Power BI visualizations provide insights into workforce reductions worldwide.
 
-# World Layoffs Data Analysis
-
-This project analyzes layoffs across industries and regions to identify trends and workforce reduction patterns globally.
-
 ## Overview
 This analysis helps understand global workforce reductions across various industries. The project uses SQL to query structured layoff data and Power BI for interactive dashboards.
 
